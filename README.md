@@ -37,3 +37,8 @@ Make sure you have Python 3.x installed and the required libraries:
 ```bash
 pip install pygame
 
+python cardodge/cardodge.py
+           or
+python flappy_bird/flappy_bird.py
+![image](https://github.com/user-attachments/assets/f5fea60d-b31f-4a01-9628-22f2d9919b89)
+
